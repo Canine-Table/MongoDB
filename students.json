@@ -1,0 +1,9 @@
+{"_id":{"$oid":"646ff9879bd5ebe84d32f8df"},"name":"Patrick","age":38,"gpa":1.5}
+{"_id":{"$oid":"646ff9879bd5ebe84d32f8e0"},"name":"Sandy","age":27,"gpa":4}
+{"_id":{"$oid":"646ff9879bd5ebe84d32f8e1"},"name":"Gary","age":18,"gpa":2.5}
+{"_id":{"$oid":"6470087fa593e10863cf1048"},"name":"Patrick","age":38,"gpa":1.5,"fullTime":true,"graduation":null,"courses":["Biology","Chemistry","Algebra"]}
+{"_id":{"$oid":"6470087fa593e10863cf1049"},"name":"Sandy","age":27,"gpa":4,"fullTime":true,"graduation":null,"courses":["Biology","Chemistry","Calculus"]}
+{"_id":{"$oid":"6470087fa593e10863cf104a"},"name":"Gary","age":18,"gpa":2.5,"fullTime":false,"graduation":null,"courses":["Biology","Boolean Algebra","Calculus"]}
+{"_id":{"$oid":"6470087fa593e10863cf104b"},"name":"Larry","age":32,"gpa":2.8,"fullTime":false,"graduation":null,"courses":["Gym","Biology","Calculus"],"address":{"street":"123 Fake St.","city":"Bikini Bottom","zip":12345}}
+{"_id":{"$oid":"647008eda593e10863cf104c"},"name":"Spongebob","age":30,"gpa":3.2,"address":{"street":"321 Fake St.","city":"Bikini Bottom","zip":54321},"courses":["Gym","Biology","Calculus"],"fullTime":false,"graduation":null}
+{"_id":{"$oid":"6470090ea593e10863cf104d"},"name":"Spongebob","age":30,"gpa":3.2}
